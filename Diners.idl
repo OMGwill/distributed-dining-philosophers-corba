@@ -1,0 +1,14 @@
+module Diners {
+
+	interface IDiner	{
+		// put method specifications here
+	void requestFromRight();
+	void requestFromLeft();
+	void forkFromRight();
+	void forkFromLeft();
+
+	};
+
+	
+
+};
